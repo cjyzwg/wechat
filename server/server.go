@@ -10,7 +10,7 @@ import (
 	"strconv"
 
 	"github.com/silenceper/wechat/context"
-	"github.com/silenceper/wechat/message"
+	"github.com/cjyzwg/wechat/message"
 	"github.com/silenceper/wechat/util"
 )
 
